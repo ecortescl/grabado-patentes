@@ -1,0 +1,6 @@
+# Permitir a todos los robots de motores de búsqueda indexar el sitio
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://grabadopatentes.resolutionsweb.cl/sitemap.xml 
