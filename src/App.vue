@@ -458,12 +458,12 @@ onMounted(() => {
         <div>
           <h3 class="text-white font-semibold mb-2">Recursos útiles</h3>
           <ul class="space-y-1">
-            <li><a href="https://www.bcn.cl/leychile/navegar?idNorma=1193830" target="_blank" class="text-gray-400 hover:text-white">Ley 21.601 oficial</a></li>
+            <li><a href="https://www.bcn.cl/leychile/navegar?idNorma=1195774" target="_blank" class="text-gray-400 hover:text-white">Ley 21.601 oficial</a></li>
             <li><a href="https://mtt.gob.cl/grabado-de-patentes" target="_blank" class="text-gray-400 hover:text-white">MTT Grabado de Patentes</a></li>
           </ul>
         </div>
         <div>
-          <h3 class="text-white font-semibold mb-2">Ciudades con servicio</h3>
+          <h3 class="text-white font-semibold mb-2">Ciudades</h3>
           <p class="text-gray-400 text-xs">
             Santiago, Concepción, Valparaíso, Viña del Mar, Rancagua, Temuco, Antofagasta, La Serena, Puerto Montt
           </p>
